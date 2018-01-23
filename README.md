@@ -1,3 +1,2 @@
 # CSCI-1310
-CSCI 1310
 CSCI1310 classwork
